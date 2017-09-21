@@ -11,7 +11,7 @@
 </head>
 <body>
 
-	<!-- <%//String usuario = session.getAttribute(arg0)%> -->
+	<!-- <%//String usuario = session.getAttribute(arg0)%> s-->
 
 	<h1>Mini Whats</h1>
 	<form action="ServletMensagem" method="POST">
