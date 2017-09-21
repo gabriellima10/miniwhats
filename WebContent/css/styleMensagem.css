@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+	body {
+		background: #e6f2ff;
+		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+		font-weight:300;
+		text-align: left;
+		text-decoration: none;
+		height: 500px;
+	}
+
+	h1 {
+		text-align: center;
+	}
+	
+	
+}
